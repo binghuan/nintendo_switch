@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<home_2_1_0>
+        <News></News>
+        <Nintendo_eShop></Nintendo_eShop>
+        <Album></Album>
+        <Controllers>
+                <Change_Grip_Order></Change_Grip_Order>
+                <Pair_New_Controllers></Pair_New_Controllers>
+                <Close></Close>
+        </Controllers>
+        <System_Settings>
+                <Support_Health_and_Safety>
+                        For more information about how to use Nintendo Switch and its featurs, please refer to the Nintendo Support Website on your smart device or PC.
+                        <Safety_Precautions></Safety_Precautions>
+                        <Error_History></Error_History>
+                </Support_Health_and_Safety>
+                <Airplane_Mode type="toggle">
+                        <ON></ON>
+                        <OFF></OFF>
+                        All wireless communication, such as Wi-Fi and Bluetooth will be turned off. Some types of wireless communication can still be switched on manually when the console is in Aireplane Mode.
+                        * This can also be changed from Quick Settings (Hold HOME button)
+                </Airplane_Mode>
+                <Screen_Brightness>
+                        <Auto-Brightness_Adjustment type="toggle">
+                                <ON></ON>
+                                <OFF></OFF>
+                                * This can also be changed from Quick Settings (Hold HOME button)
+                        </Auto-Brightness_Adjustment>
+                </Screen_Brightness>
+                <Screen_Lock>
+                        <Lock_Console_in_Sleep_Mode type="toggle">
+                                <ON></ON>
+                                <OFF></OFF>
+                                Lock the console so that the same button must be pressed three times to proceed when you exit Sleep Mode. The console will not lock when connected to a TV.
+                        </Lock_Console_in_Sleep_Mode>
+                </Screen_Lock>
+                <Parental_Controls>
+                        Parental Controls can be used to retrict features of this console. Configure these on the console or using your smart devices.
+                </Parental_Controls>
+                <Internet>
+                        <Internet_Settings></Internet_Settings>
+                        <Test_Connection></Test_Connection>
+                        <Connection_Status></Connection_Status>
+                </Internet>
+                <Data_Management>
+                        <Manage_Software></Manage_Software>
+                        <Manage_Save_Data_or_Screenshots></Manage_Save_Data_or_Screenshots>
+                </Data_Management>
+                <Users>
+                        <Skip_Selection_Screen>
+                                Skip the user-selection screen, It may still be displayed in some cases, depending on the software.
+                        </Skip_Selection_Screen>
+                        <Add_User></Add_User>
+                </Users>
+                <Mii>
+                        You can create your own custom Mii characters.
+                        Mii Characters can be used in compatible software.
+                        <Create_or_Edit_a_Mii></Create_or_Edit_a_Mii>
+                </Mii>
+                <amiibo>
+                        You can edit and delete data saved to amiibo.
+                        <Register_Owner_and_Nickname></Register_Owner_and_Nickname>
+                        <Delete_Game_Data></Delete_Game_Data>
+                        <Reset_amiibo></Reset_amiibo>
+                </amiibo>
+                <Themes>
+                        <Basic_White></Basic_White>
+                        <Basic_Black></Basic_Black>
+                </Themes>
+                <Notifications>
+                        <Download_Complete_Notifications type="toggle">
+                                <ON></ON>
+                                <OFF></OFF>
+                        </Download_Complete_Notifications>
+                        <Friend_Notications></Friend_Notications>
+                        <Notification_Sound></Notification_Sound>
+                </Notifications>
+                <Sleep_Mode>
+                        <Auto-Sleep_Playing_on_Console_Screen_></Auto-Sleep_Playing_on_Console_Screen_>
+                        <Auto-Sleep_Connected_to_TV_></Auto-Sleep_Connected_to_TV_>
+                        <Suspend_Auto-Sleep_While_Playing_Media_Content>
+                                Prevents auto-sleep from activating while media content is playing. if this option is disabled, the console will still go to sleep after four hours of media playback.
+                        </Suspend_Auto-Sleep_While_Playing_Media_Content>
+                </Sleep_Mode>
+                <Controllers_and_Sensors>
+                        <Change_Grip_Order></Change_Grip_Order>
+                        <Controller_Vibration></Controller_Vibration>
+                        <Calibrate_Controler_Sticks></Calibrate_Controler_Sticks>
+                        <Calibrate_Motion_Controls></Calibrate_Motion_Controls>
+                        <Test_Input_Devices>
+                                Check for problems with the controllers or the touch screen.
+                        </Test_Input_Devices>
+                        <Disconnect_Controllers></Disconnect_Controllers>
+                </Controllers_and_Sensors>
+                <TV_Settings>
+                        <TV_Resolution>
+                                <Automatic></Automatic>
+                                <_480P></_480P>
+                                <_720P></_720P>
+                                <_1080P></_1080P>
+                        </TV_Resolution>
+                        <RGB_Range></RGB_Range>
+                        <Adjust_Screen_Size></Adjust_Screen_Size>
+                        <Screen_Burn-in_Reduction>
+                                Reduce screen brighness after five minutes of inactivity.
+                        </Screen_Burn-in_Reduction>
+                        <Match_TV_Power_State>
+                                When connected to the TV, turning on the console/exiting sleep mode will turn on the TV. Turning off the TV will put the console in sleep mode.
+                                * HDMI settings must also be enabled on your TV. Some TV models may be unable to use this feature.
+                        </Match_TV_Power_State>
+                        <TV_Sound></TV_Sound>
+                </TV_Settings>
+                <System>
+                        <System_Update>Current version 2.1.0</System_Update>
+                        <Console_Nickname></Console_Nickname>
+                        <Language></Language>
+                        <Region></Region>
+                        <Date_and_Time></Date_and_Time>
+                        <Console_Battery>
+                                The console battery will be displayed on the HOME Menu as a percentage.
+                        </Console_Battery>
+                        <Console_Sound></Console_Sound>
+                        <Mute_when_Headphones_are_Disconnected></Mute_when_Headphones_are_Disconnected>
+                        <Serial_Information>
+                                <Console></Console>
+                                <Console_Battery></Console_Battery>
+                                <Joy-Con_L></Joy-Con_L>
+                                <Joy-Con_R></Joy-Con_R>
+                        </Serial_Information>
+                        <End-User_License_Agreement></End-User_License_Agreement>
+                        <Intellectual_Property_Notices></Intellectual_Property_Notices>
+                        <Wireless_E-Label></Wireless_E-Label>
+                        <Auto-Updaet_Software></Auto-Updaet_Software>
+                        <Receive_News>
+                                Receive news through your Nintendo Switch. When turned off. you will still receive system information about Nintendo Switch.
+                        </Receive_News>
+                        <Initialize></Initialize>
+                </System>
+        </System_Settings>
+        <Sleep_Mode></Sleep_Mode>
+</home_2_1_0>
